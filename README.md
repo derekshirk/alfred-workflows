@@ -3,11 +3,16 @@
 A collection of my favorite alfred workflows
 
 ## Fantastical 2
+
 - http://www.packal.org/workflow/fantastical-apple-calendar
 
 
-## GitHub Repos
+## Emoji
 
+- https://github.com/sindresorhus/alfred-emoj
+
+## GitHub Repos
+- http://joelcalifa.com/blog/alfred-emoji-snippet-pack (seriously the best)
 - http://www.packal.org/workflow/github-repos
 
 
