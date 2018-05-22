@@ -1,4 +1,4 @@
-# alfred-workflows
+# Alfred 3 Workflows
 
 A collection of my favorite alfred workflows
 
